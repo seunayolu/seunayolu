@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a Network engineer based in Nigeria who is passionate about everything related to Cloud and DevOps. <br>
+I'm a DevOps Engineer based in Nigeria who is passionate about everything related to Cloud and DevOps. <br>
 In my free time, I run a [blog](https://seunayolu.hashnode.dev/) where I write about interesting things that I learn along the way. <br>
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alausaseun)
