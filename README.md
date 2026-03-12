@@ -9,7 +9,9 @@ Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consultin
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alausa-oluwaseun/)
 
 <br />
+
 ---
+
 ## Featured Projects
 
 | Project | Description | Tech Stack |
@@ -19,7 +21,9 @@ Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consultin
 | **[Terraform Drift Detection](https://github.com/seunayolu/terraform-drift-detection)** | A proactive approach to infrastructure integrity by identifying and alerting on manual resource changes. | `Terraform` `Governance` |
 | **[Cloud-Native Online Boutique](https://github.com/seunayolu/online-boutique)** | Microservices architecture demonstration featuring container orchestration and observability. | `Kubernetes` `Docker` |
 | **[WordPress GitLab Pipeline](https://gitlab.com/seunayolu/wordpress-pipeline)** | End-to-end automated CI/CD pipeline for scalable WordPress deployments on AWS. | `GitLab CI` `AWS` |
+
 ---
+
 ## 🛠️ Technical Ecosystem
 
 ### **Cloud & Infrastructure**
