@@ -1,21 +1,14 @@
 # Hi there! 👋 I'm Oluwaseun Alausa
 
-I'm a **Principal Network & DevOps Engineer** based in Nigeria with over 8 years of experience building secure, scalable, and automated cloud infrastructure. I specialize in **DevSecOps**, **Cloud Governance**, and **Hybrid Networking**.
+I'm a **Principal Network & DevOps Engineer** based in Nigeria with over 8 years of experience in Information and Communication Technology. I specialize in **Cloud, DevOps, DevSecOps**, **Cloud Governance**, and **Networking**.
 
 Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consulting and training hub focused on bridging the gap between infrastructure and security.
-
 <br />
-
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alausaseun)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seunayolu)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alausa-oluwaseun/)
-[![Blog](https://img.shields.io/badge/Read_Blog-blue?style=for-the-badge&logo=hashnode)](https://seunayolu.hashnode.dev/)
-
 <br />
-
 ---
-
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -24,9 +17,7 @@ Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consultin
 | **[Terraform Drift Detection](https://github.com/seunayolu/terraform-drift-detection)** | A proactive approach to infrastructure integrity by identifying and alerting on manual resource changes. | `Terraform` `Governance` |
 | **[Cloud-Native Online Boutique](https://github.com/seunayolu/online-boutique)** | Microservices architecture demonstration featuring container orchestration and observability. | `Kubernetes` `Docker` |
 | **[WordPress GitLab Pipeline](https://gitlab.com/seunayolu/wordpress-pipeline)** | End-to-end automated CI/CD pipeline for scalable WordPress deployments on AWS. | `GitLab CI` `AWS` |
-
 ---
-
 ## 🛠️ Technical Ecosystem
 
 ### **Cloud & Infrastructure**
