@@ -25,7 +25,7 @@ Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consultin
 
 ---
 
-## 🛠️ Technical Ecosystem
+## Technical Ecosystem
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -33,7 +33,7 @@ Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consultin
 * **IaC & Governance:** Terraform, CloudFormation, AWS RDK (Rule Development Kit), Organizations.
 
 ### **CI/CD & GitOps**
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FFA600?style=flat&logo=Argo-CD&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FFA600?style=flat&logo=Argo-CD&logoColor=white)
 * Advanced pipeline automation and GitOps workflows for seamless application delivery.
 
 ### **Networking & Security (DevSecOps)**
