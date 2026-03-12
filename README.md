@@ -60,5 +60,5 @@ Currently, I'm building **[TechOpsLabs](https://techopslabs.com)**—a consultin
 
 ---
 <p align="center">
-  <i>"Automating the world, one pipeline at a time."</i>
+  <i>"Transforming Infrastructure through Automation & Cloud Governance | Instructor & Content Creator."</i>
 </p>
